@@ -64,7 +64,7 @@ Your backend app should implement this API endpoint:
    - A sample of your signed message
    - Instructions for running your project
 3. Send the project Github link as response to contact@blockialabs.com
-3. Optional: Record and attach a 1-2 minute video (ex. using Loom) showing your app working
+3. Optional: Record and attach a 1-2 minute video (ex. using Loom) explaining HOW your app is working
 
 ## Time Limit
 You have 5 days to complete and submit this challenge.
