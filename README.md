@@ -13,10 +13,10 @@ A simple web application that shows how digital signatures work - similar to how
   - tweetnacl (a simple crypto library)
   - Node's crypto module (built into Node.js)
 
-## Your Digital Identity Details
+## Digital Identity Details
 You need to hardcode these exact values in your code:
-- Your Full Name (example: "Elena Jovanova")
-- Your GitHub Username (example: "elenajovanova")
+- Your Name (example: "Elena Jovanova") - it doesn't need to be your real name, as we don't collect personal information
+- First 6 characters of your GitHub ID (example: "elenaj")
 - Today's Date in YYYYMMDD format (example: "20250414" for April 14, 2025)
 
 ## How the App Should Work
