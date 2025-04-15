@@ -26,11 +26,6 @@ const verifySignature = async () => {
     const signatureString = naclUtil.encodeBase64(signature);
     const publicKeyString = naclUtil.encodeBase64(keyPair.publicKey);
 
-    console.log("Signature: ", signatureString);
-    console.log("Signature length: ", signatureString.length);
-    console.log("Public Key: ", publicKeyString);
-    console.log("Public Key length: ", publicKeyString.length);
-
     const response = await fetch("/api/verify", {
       method: "POST",
       headers: {

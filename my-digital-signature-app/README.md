@@ -10,7 +10,13 @@ A simple web application that shows how digital signatures work.
 
 ## 📝 Sample Signed Message
 
-```json { "message": "BLOCKIA-SashkaJanevska-sashka-20250413", "signature": "DferwwedD7ueBIcfbAkXfFgkfLoz4PRObloP9ksMP9s3C2vyASOHpjAeYBGcrifjqVsomKyGTKwc9XT6IHhkDQ==", "publicKey": "jqt/genc37Jm2hqFHnn3YSXfg92IlTldxWmiOYxwgsI=" }```
+```json
+{
+  "message": "BLOCKIA-SashkaJanevska-sashka-20250413",
+  "signature": "DferwwedD7ueBIcfbAkXfFgkfLoz4PRObloP9ksMP9s3C2vyASOHpjAeYBGcrifjqVsomKyGTKwc9XT6IHhkDQ==",
+  "publicKey": "jqt/genc37Jm2hqFHnn3YSXfg92IlTldxWmiOYxwgsI="
+}
+```
 
 ## ⚙️ Built With
 
@@ -38,7 +44,7 @@ A simple web application that shows how digital signatures work.
 
 ## 🚀 Live Demo
 
-[Link] (https://www.google.com/)
+[Digital Signature App Demo](https://sj-digital-signature-app.vercel.app/)
 
 ## 👉 Getting Started
 
