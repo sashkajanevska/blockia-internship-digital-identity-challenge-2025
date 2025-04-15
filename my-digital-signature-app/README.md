@@ -38,7 +38,6 @@ A simple web application that shows how digital signatures work.
 
 - **tweetnacl:**
   Lightweight cryptographic library for signing and verifying messages.
-
 - **tweetnacl-util:**
   Helper functions for encoding/decoding text and binary data.
 
